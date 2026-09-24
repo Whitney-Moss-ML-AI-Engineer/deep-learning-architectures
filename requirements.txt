@@ -1,0 +1,41 @@
+# Core
+numpy
+pandas
+scipy
+
+# Deep learning
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# NLP / Transformers
+transformers
+tokenizers
+sentence-transformers
+
+# Computer vision
+opencv-python
+
+# Graph neural networks
+torch-geometric
+
+# Reinforcement learning
+gymnasium
+stable-baselines3
+
+# Visualization
+matplotlib
+plotly
+
+# Experiment tracking
+mlflow
+wandb
+
+# Notebooks
+jupyter
+ipykernel
+
+# Testing
+pytest
